@@ -7,7 +7,7 @@ This project demonstrates a simple Machine Learning pipeline to classify emails 
 ## 📂 Project Structure
 
 - `spam.csv` – The dataset (must include a `'spam'` column as target label). https://www.kaggle.com/datasets/colormap/spambase/code
-- `spam_classifier.py` – Python script to train and evaluate the model.
+- `Spam_email_detector.py` – Python script to train and evaluate the model.
 - `README.md` – Documentation of the project.
 
 ---
